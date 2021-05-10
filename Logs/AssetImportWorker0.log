@@ -221,3 +221,785 @@ Received Import Request.
 Start importing Assets/Sprites/SUNNYSIDE_WORLD_ASSETS_V0.2/TILESET/SunnysideWorld_Tileset_V0.1.png using Guid(8ff3f5585be98064aa3241c21be4990e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b52d588619acc17f66d1d3dc621a8e50') in 0.519660 seconds
   Import took 0.523949 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 21072.198047 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_01.gif
+  artifactKey: Guid(d2370e0a47bffc248a26078b5b34a91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_01.gif using Guid(d2370e0a47bffc248a26078b5b34a91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de21943f73444e5ca75496d02ebd7758') in 0.052333 seconds
+  Import took 0.075403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_04.gif
+  artifactKey: Guid(8c96a84f20e48e446a01839fb471665b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_04.gif using Guid(8c96a84f20e48e446a01839fb471665b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3930706a571bfd1e20fa5e4fab02c1') in 0.009882 seconds
+  Import took 0.012739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_01_strip30.png
+  artifactKey: Guid(5db01d9e8a094cd42841708991b68681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_01_strip30.png using Guid(5db01d9e8a094cd42841708991b68681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e311a640687cee4543b441ce21aaf54') in 0.038041 seconds
+  Import took 0.041572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_02.gif
+  artifactKey: Guid(8aa0632f4ed0fad4e81eb7dcd60729b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_02.gif using Guid(8aa0632f4ed0fad4e81eb7dcd60729b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95902adf7ebc3d2168cc0e1eb565c168') in 0.021943 seconds
+  Import took 0.024968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_05.gif
+  artifactKey: Guid(3922158d740540844bef8e1b8067d58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_05.gif using Guid(3922158d740540844bef8e1b8067d58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75bbc87931a619bd0e63e6ece73d1da') in 0.025684 seconds
+  Import took 0.028618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_03.gif
+  artifactKey: Guid(8f375be08c3e39d47a6de3e3d33ab32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_03.gif using Guid(8f375be08c3e39d47a6de3e3d33ab32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6abcf5ed8ab5d081126da41016f334b9') in 0.009017 seconds
+  Import took 0.011785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_04_strip30.png
+  artifactKey: Guid(74163974cd7b11941aa92837b13830de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_04_strip30.png using Guid(74163974cd7b11941aa92837b13830de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b45482e0d8ff69155f983a93d9e2a3') in 0.044194 seconds
+  Import took 0.046782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_03_strip30.png
+  artifactKey: Guid(ff1efcaedcbf7b2468cc8dd8610a270b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_03_strip30.png using Guid(ff1efcaedcbf7b2468cc8dd8610a270b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4a54449e5714fb265319f3171549e5') in 0.014621 seconds
+  Import took 0.017523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_05_strip30.png
+  artifactKey: Guid(71fa2a6b3c4374a48a72f11b6ddfe4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_05_strip30.png using Guid(71fa2a6b3c4374a48a72f11b6ddfe4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8012350a010553ee97b5a104996646b') in 0.010670 seconds
+  Import took 0.013498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/SUNNYSIDE_WORLD_CHIMNEYSMOKE_MOCKUP.gif
+  artifactKey: Guid(1eb3335383771b64490412ac8f80d0fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/SUNNYSIDE_WORLD_CHIMNEYSMOKE_MOCKUP.gif using Guid(1eb3335383771b64490412ac8f80d0fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b61cc45e729b0fda98c0d2c08730337') in 0.010719 seconds
+  Import took 0.013909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_02_strip30.png
+  artifactKey: Guid(e2aeb9328ba627b4485a0ccb17b27524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SUNNYSIDE_WORLD_CHIMNEYSMOKE/chimneysmoke_02_strip30.png using Guid(e2aeb9328ba627b4485a0ccb17b27524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7854342d948b74a07fecbdf10cc598') in 0.007639 seconds
+  Import took 0.010548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.967454 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION
+  artifactKey: Guid(8885ed79649c6314faeb8d89766e1c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION using Guid(8885ed79649c6314faeb8d89766e1c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef8e08fd34c67ca285d57e4657ee292') in 0.002264 seconds
+  Import took 0.004924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.007433 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER
+  artifactKey: Guid(31fc9a8e85ed565499eaafc70d8a3ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER using Guid(31fc9a8e85ed565499eaafc70d8a3ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b140e7f02c025f22705889a62ea4c1') in 0.002016 seconds
+  Import took 0.005082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.150980 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG
+  artifactKey: Guid(e2e616d57bde30847a0cd7a4bd6ef099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG using Guid(e2e616d57bde30847a0cd7a4bd6ef099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c30b8345fed902e1637a2b6803b9713') in 0.001890 seconds
+  Import took 0.004501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007935 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG
+  artifactKey: Guid(e2e616d57bde30847a0cd7a4bd6ef099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG using Guid(e2e616d57bde30847a0cd7a4bd6ef099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c30b8345fed902e1637a2b6803b9713') in 0.001583 seconds
+  Import took 0.004220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.593787 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/NO_FX
+  artifactKey: Guid(0dca42540c2eb6045a2b8aea7cd06512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/NO_FX using Guid(0dca42540c2eb6045a2b8aea7cd06512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d7b9b842a99c0eae558d76c5a33519') in 0.002017 seconds
+  Import took 0.004751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.600794 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX
+  artifactKey: Guid(ec4261e7aa7efb14d9b83c1fd979d703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX using Guid(ec4261e7aa7efb14d9b83c1fd979d703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91cc92353e53c45b3cee4f9e06fb2490') in 0.001854 seconds
+  Import took 0.004514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062396 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_axe_strip10.png
+  artifactKey: Guid(6b04817e1415c5c4d8fe21dafe74036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_axe_strip10.png using Guid(6b04817e1415c5c4d8fe21dafe74036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2cc5a1859275a597fa2aabf56fc4c9') in 0.008663 seconds
+  Import took 0.011492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_jump_strip9.png
+  artifactKey: Guid(cfcefffa149d0864883d91c62bd3e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_jump_strip9.png using Guid(cfcefffa149d0864883d91c62bd3e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f227eff64651103d13bbf6237b76985b') in 0.012875 seconds
+  Import took 0.015511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_casting_strip15.png
+  artifactKey: Guid(3aec905b77b14a743b493600c5bcf16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_casting_strip15.png using Guid(3aec905b77b14a743b493600c5bcf16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad2c6230f225a37066262e471a8b9e0') in 0.012191 seconds
+  Import took 0.014871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_reeling_strip13.png
+  artifactKey: Guid(94e289153dd327e409e1add5a4f7a6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_reeling_strip13.png using Guid(94e289153dd327e409e1add5a4f7a6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee079d990d844899efaff3f8a8cc7e1d') in 0.013212 seconds
+  Import took 0.015827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_sword_strip10.png
+  artifactKey: Guid(997058c7b353a1849b94f5226134a1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_sword_strip10.png using Guid(997058c7b353a1849b94f5226134a1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b6e80953f5a59d3af51c5bb9efe1d8') in 0.009329 seconds
+  Import took 0.012191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_idle_strip9.png
+  artifactKey: Guid(651077681100f8043afe6495bda364e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_idle_strip9.png using Guid(651077681100f8043afe6495bda364e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd02d08d75ca522f46b30ecd7b46dba1') in 0.009472 seconds
+  Import took 0.012822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_mining_strip10.png
+  artifactKey: Guid(055bc44ae623fb34e8532ce0b4c5c7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_mining_strip10.png using Guid(055bc44ae623fb34e8532ce0b4c5c7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3557abb9ebba7621c909873e9939024') in 0.009948 seconds
+  Import took 0.013052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_carry_strip8.png
+  artifactKey: Guid(3234ca30513dd3942a6aa3e7d1ed4a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_carry_strip8.png using Guid(3234ca30513dd3942a6aa3e7d1ed4a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7dab4a14c8b3d7d325750d2a30e149') in 0.009352 seconds
+  Import took 0.011897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_run_strip8.png
+  artifactKey: Guid(f83980b575e54bc4ebdbfce5789d70c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_run_strip8.png using Guid(f83980b575e54bc4ebdbfce5789d70c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae379057dd2a6737b93b83875275cc16') in 0.012100 seconds
+  Import took 0.014757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_roll_strip10.png
+  artifactKey: Guid(2dc4e4da6ac2aee43afb37796bc7eed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_roll_strip10.png using Guid(2dc4e4da6ac2aee43afb37796bc7eed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc9b5c49774f8fa0576839ef05e4ad4') in 0.009014 seconds
+  Import took 0.012012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_waiting_strip9.png
+  artifactKey: Guid(b58ed9b8705d07643a27110a7c176a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_waiting_strip9.png using Guid(b58ed9b8705d07643a27110a7c176a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '072898bd222b08010f593f718c98d077') in 0.014955 seconds
+  Import took 0.018280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_swimming_strip12.png
+  artifactKey: Guid(e3ac30f20c0881e40b1cf0034b19cc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_swimming_strip12.png using Guid(e3ac30f20c0881e40b1cf0034b19cc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb3a7f922efc66bb819c47c310c803d') in 0.010046 seconds
+  Import took 0.012684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_death_strip13.png
+  artifactKey: Guid(28574bfa391400940a62a94dbc5eb9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_death_strip13.png using Guid(28574bfa391400940a62a94dbc5eb9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e889284a73b1d75ff78791e1541b81b0') in 0.010754 seconds
+  Import took 0.014996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_walking_strip8.png
+  artifactKey: Guid(dc7c49246f36e1e4b9c988b85b01c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_walking_strip8.png using Guid(dc7c49246f36e1e4b9c988b85b01c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ee53e3719f0bfb349db26777543b13') in 0.010814 seconds
+  Import took 0.013719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_watering_strip5.png
+  artifactKey: Guid(da472e62caef8b044afcc332c660aa0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_watering_strip5.png using Guid(da472e62caef8b044afcc332c660aa0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '769fe95e7a366872ef7aafbd1e356e14') in 0.010996 seconds
+  Import took 0.013484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hurt_strip8.png
+  artifactKey: Guid(c7acc9aa8816fde4c8ee2f6e0f8a3b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hurt_strip8.png using Guid(c7acc9aa8816fde4c8ee2f6e0f8a3b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8959c5cead285b9a17595490a47f4949') in 0.012910 seconds
+  Import took 0.016033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_caught_strip10.png
+  artifactKey: Guid(15c48275b52765c49b3515ffd5d62336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_caught_strip10.png using Guid(15c48275b52765c49b3515ffd5d62336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9361f4545d716dda3c686b3faa5a3305') in 0.006811 seconds
+  Import took 0.009433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hammering_strip23.png
+  artifactKey: Guid(e999fda0d9bd654468cfea45fed0040c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hammering_strip23.png using Guid(e999fda0d9bd654468cfea45fed0040c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14bf4f33527c2811b0555e5829e14353') in 0.012422 seconds
+  Import took 0.015745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_doing_strip8.png
+  artifactKey: Guid(b4edffbd567342340be4b3fbcad05627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_doing_strip8.png using Guid(b4edffbd567342340be4b3fbcad05627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a2f46b5ec65e052900249ab94b48503') in 0.007204 seconds
+  Import took 0.009970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_dig_strip13.png
+  artifactKey: Guid(4f2e16ad669038946b106780f6930902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_dig_strip13.png using Guid(4f2e16ad669038946b106780f6930902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df3a1986037037940916275dc4e2b90f') in 0.007145 seconds
+  Import took 0.009940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.563158 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_doing_strip8.png
+  artifactKey: Guid(b4edffbd567342340be4b3fbcad05627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_doing_strip8.png using Guid(b4edffbd567342340be4b3fbcad05627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad89d0e215970396c742e80acf6df30') in 0.006458 seconds
+  Import took 0.010372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.011499 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_jump_strip9.png
+  artifactKey: Guid(cfcefffa149d0864883d91c62bd3e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_jump_strip9.png using Guid(cfcefffa149d0864883d91c62bd3e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a96c7e8b1986885d6843be66406cd3') in 0.005264 seconds
+  Import took 0.008155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.395527 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_axe_strip10.png
+  artifactKey: Guid(6b04817e1415c5c4d8fe21dafe74036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_axe_strip10.png using Guid(6b04817e1415c5c4d8fe21dafe74036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78982cddf8b625a8d8b8e94962a48764') in 0.005788 seconds
+  Import took 0.008665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.517449 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_carry_strip8.png
+  artifactKey: Guid(3234ca30513dd3942a6aa3e7d1ed4a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_carry_strip8.png using Guid(3234ca30513dd3942a6aa3e7d1ed4a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84f9173cd92f357f874fb698bdfa8c9e') in 0.005904 seconds
+  Import took 0.008956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_reeling_strip13.png
+  artifactKey: Guid(94e289153dd327e409e1add5a4f7a6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_reeling_strip13.png using Guid(94e289153dd327e409e1add5a4f7a6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77c09284481c72a417d762034c903a6') in 0.004942 seconds
+  Import took 0.007543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_casting_strip15.png
+  artifactKey: Guid(3aec905b77b14a743b493600c5bcf16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_casting_strip15.png using Guid(3aec905b77b14a743b493600c5bcf16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f86ad3979a490379449aa259cfc23b') in 0.017693 seconds
+  Import took 0.020300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_sword_strip10.png
+  artifactKey: Guid(997058c7b353a1849b94f5226134a1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_sword_strip10.png using Guid(997058c7b353a1849b94f5226134a1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a26e0cb360cccc832fa56fd082615a0') in 0.005431 seconds
+  Import took 0.008141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_idle_strip9.png
+  artifactKey: Guid(651077681100f8043afe6495bda364e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_idle_strip9.png using Guid(651077681100f8043afe6495bda364e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae46028cc0f0b636eda9ef738163f530') in 0.007892 seconds
+  Import took 0.010498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_mining_strip10.png
+  artifactKey: Guid(055bc44ae623fb34e8532ce0b4c5c7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_mining_strip10.png using Guid(055bc44ae623fb34e8532ce0b4c5c7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c75c3a605c687c69a1989a85fddde771') in 0.008925 seconds
+  Import took 0.012007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_run_strip8.png
+  artifactKey: Guid(f83980b575e54bc4ebdbfce5789d70c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_run_strip8.png using Guid(f83980b575e54bc4ebdbfce5789d70c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da37525745991eb9fb30dea621af735f') in 0.005196 seconds
+  Import took 0.007957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_roll_strip10.png
+  artifactKey: Guid(2dc4e4da6ac2aee43afb37796bc7eed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_roll_strip10.png using Guid(2dc4e4da6ac2aee43afb37796bc7eed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1ce839bf12b8447a4fc6736255b8ca') in 0.008352 seconds
+  Import took 0.010965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_waiting_strip9.png
+  artifactKey: Guid(b58ed9b8705d07643a27110a7c176a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_waiting_strip9.png using Guid(b58ed9b8705d07643a27110a7c176a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b5fb4f09261723b8cae1f81cb92198') in 0.014611 seconds
+  Import took 0.017137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_swimming_strip12.png
+  artifactKey: Guid(e3ac30f20c0881e40b1cf0034b19cc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_swimming_strip12.png using Guid(e3ac30f20c0881e40b1cf0034b19cc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52eb43d1fa2aabe47364299cf98083b') in 0.024147 seconds
+  Import took 0.028791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_death_strip13.png
+  artifactKey: Guid(28574bfa391400940a62a94dbc5eb9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_death_strip13.png using Guid(28574bfa391400940a62a94dbc5eb9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3b494a52b942f1d7693aa9f9d33fbb') in 0.018071 seconds
+  Import took 0.020823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_walking_strip8.png
+  artifactKey: Guid(dc7c49246f36e1e4b9c988b85b01c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_walking_strip8.png using Guid(dc7c49246f36e1e4b9c988b85b01c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d33a13f8cd63a40b2b30b60eb20736') in 0.005164 seconds
+  Import took 0.008654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_watering_strip5.png
+  artifactKey: Guid(da472e62caef8b044afcc332c660aa0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_watering_strip5.png using Guid(da472e62caef8b044afcc332c660aa0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69be6d0e09041b246e57be2c9b7760c') in 0.015994 seconds
+  Import took 0.019216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hurt_strip8.png
+  artifactKey: Guid(c7acc9aa8816fde4c8ee2f6e0f8a3b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hurt_strip8.png using Guid(c7acc9aa8816fde4c8ee2f6e0f8a3b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0e095060dafdd358c6933b45a469b4') in 0.009382 seconds
+  Import took 0.012119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_caught_strip10.png
+  artifactKey: Guid(15c48275b52765c49b3515ffd5d62336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_caught_strip10.png using Guid(15c48275b52765c49b3515ffd5d62336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd119635712a2caf2e6e0e3f1499d01b8') in 0.015036 seconds
+  Import took 0.017661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hammering_strip23.png
+  artifactKey: Guid(e999fda0d9bd654468cfea45fed0040c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hammering_strip23.png using Guid(e999fda0d9bd654468cfea45fed0040c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3036362da304df7c3e4cd3d99813ea0a') in 0.005092 seconds
+  Import took 0.008367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_dig_strip13.png
+  artifactKey: Guid(4f2e16ad669038946b106780f6930902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_dig_strip13.png using Guid(4f2e16ad669038946b106780f6930902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cad6b9c9e9c385d8c89742698b0116b') in 0.006009 seconds
+  Import took 0.008960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.812289 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_doing_strip8.png
+  artifactKey: Guid(b4edffbd567342340be4b3fbcad05627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_doing_strip8.png using Guid(b4edffbd567342340be4b3fbcad05627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7ffe30f7fbee34492a2e245b819654') in 0.005129 seconds
+  Import took 0.008046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_jump_strip9.png
+  artifactKey: Guid(cfcefffa149d0864883d91c62bd3e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_jump_strip9.png using Guid(cfcefffa149d0864883d91c62bd3e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552903632dc6eae7e5049fc0fa913892') in 0.005335 seconds
+  Import took 0.008341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_reeling_strip13.png
+  artifactKey: Guid(94e289153dd327e409e1add5a4f7a6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_reeling_strip13.png using Guid(94e289153dd327e409e1add5a4f7a6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93bff9b0470a0e5378dcddbd60cec6fe') in 0.006131 seconds
+  Import took 0.009299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_sword_strip10.png
+  artifactKey: Guid(997058c7b353a1849b94f5226134a1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_sword_strip10.png using Guid(997058c7b353a1849b94f5226134a1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f7710100685dfa9dd4590dc0a4bd60') in 0.004788 seconds
+  Import took 0.007433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_idle_strip9.png
+  artifactKey: Guid(651077681100f8043afe6495bda364e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_idle_strip9.png using Guid(651077681100f8043afe6495bda364e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb2451a36f8faf088bd41245a0d21544') in 0.007975 seconds
+  Import took 0.012765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_mining_strip10.png
+  artifactKey: Guid(055bc44ae623fb34e8532ce0b4c5c7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_mining_strip10.png using Guid(055bc44ae623fb34e8532ce0b4c5c7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91799d4c259fb978fd0206455fb8c5d4') in 0.004675 seconds
+  Import took 0.007740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_run_strip8.png
+  artifactKey: Guid(f83980b575e54bc4ebdbfce5789d70c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_run_strip8.png using Guid(f83980b575e54bc4ebdbfce5789d70c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d0e58cbe7c32bbacbd4e17a1097d17') in 0.005461 seconds
+  Import took 0.008249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_roll_strip10.png
+  artifactKey: Guid(2dc4e4da6ac2aee43afb37796bc7eed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_roll_strip10.png using Guid(2dc4e4da6ac2aee43afb37796bc7eed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a3505d0584aee5d4f0033d1a6bc84f') in 0.006612 seconds
+  Import took 0.009466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_waiting_strip9.png
+  artifactKey: Guid(b58ed9b8705d07643a27110a7c176a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_waiting_strip9.png using Guid(b58ed9b8705d07643a27110a7c176a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c680957c8044267a81472f5a9d6c0855') in 0.008261 seconds
+  Import took 0.012068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_swimming_strip12.png
+  artifactKey: Guid(e3ac30f20c0881e40b1cf0034b19cc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_swimming_strip12.png using Guid(e3ac30f20c0881e40b1cf0034b19cc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28ab955baee777347f03b2bc574080ad') in 0.005008 seconds
+  Import took 0.008635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_walking_strip8.png
+  artifactKey: Guid(dc7c49246f36e1e4b9c988b85b01c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_walking_strip8.png using Guid(dc7c49246f36e1e4b9c988b85b01c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2e9454cbdfee458b463e221d2d01de') in 0.004512 seconds
+  Import took 0.007597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_watering_strip5.png
+  artifactKey: Guid(da472e62caef8b044afcc332c660aa0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_watering_strip5.png using Guid(da472e62caef8b044afcc332c660aa0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37db41ea622913b18be7f29e60de29eb') in 0.006858 seconds
+  Import took 0.011263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hurt_strip8.png
+  artifactKey: Guid(c7acc9aa8816fde4c8ee2f6e0f8a3b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hurt_strip8.png using Guid(c7acc9aa8816fde4c8ee2f6e0f8a3b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ae983d9265ad1557eb9448b21f8838') in 0.004511 seconds
+  Import took 0.007399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hammering_strip23.png
+  artifactKey: Guid(e999fda0d9bd654468cfea45fed0040c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_hammering_strip23.png using Guid(e999fda0d9bd654468cfea45fed0040c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75da6d84aef22b7c35c55d6f92483e2a') in 0.006296 seconds
+  Import took 0.009467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_doing_strip8.png
+  artifactKey: Guid(b4edffbd567342340be4b3fbcad05627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_doing_strip8.png using Guid(b4edffbd567342340be4b3fbcad05627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7ffe30f7fbee34492a2e245b819654') in 0.004970 seconds
+  Import took 0.008011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.826581 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_axe_strip10.png
+  artifactKey: Guid(6b04817e1415c5c4d8fe21dafe74036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_axe_strip10.png using Guid(6b04817e1415c5c4d8fe21dafe74036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21890dfb61f6ccdf46c5a00f05d20d38') in 0.006011 seconds
+  Import took 0.009715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_casting_strip15.png
+  artifactKey: Guid(3aec905b77b14a743b493600c5bcf16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_casting_strip15.png using Guid(3aec905b77b14a743b493600c5bcf16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc5f19cc45709f0cd578fcf968f6140') in 0.004436 seconds
+  Import took 0.007057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_carry_strip8.png
+  artifactKey: Guid(3234ca30513dd3942a6aa3e7d1ed4a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_carry_strip8.png using Guid(3234ca30513dd3942a6aa3e7d1ed4a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d192e39023fc4921921c1085d51935b') in 0.012922 seconds
+  Import took 0.016064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_death_strip13.png
+  artifactKey: Guid(28574bfa391400940a62a94dbc5eb9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_death_strip13.png using Guid(28574bfa391400940a62a94dbc5eb9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51951dddfbf40d2261c5aeaee3f2669f') in 0.006601 seconds
+  Import took 0.009136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_caught_strip10.png
+  artifactKey: Guid(15c48275b52765c49b3515ffd5d62336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_caught_strip10.png using Guid(15c48275b52765c49b3515ffd5d62336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e9c35e4744493c2fb57c751b381668b') in 0.007489 seconds
+  Import took 0.010090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_dig_strip13.png
+  artifactKey: Guid(4f2e16ad669038946b106780f6930902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_dig_strip13.png using Guid(4f2e16ad669038946b106780f6930902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ef5cee0d33bf2a093af3c5fcf749d1') in 0.006353 seconds
+  Import took 0.009130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.753774 seconds.
+  path: Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_idle_strip9.png
+  artifactKey: Guid(651077681100f8043afe6495bda364e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CHARACTERS/ANIMATION/BASE CHARACTER/PNG/WITH_FX/spr_idle_strip9.png using Guid(651077681100f8043afe6495bda364e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7ffe51757478148803a8b303acc219') in 0.036460 seconds
+  Import took 0.039222 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001610 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.906 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2302.
+Total: 1.862300 ms (FindLiveObjects: 0.166600 ms CreateObjectMapping: 0.059700 ms MarkObjects: 1.549500 ms  DeleteObjects: 0.085300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.544197 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(9c42aa36611391246bbdd02fe043d2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(9c42aa36611391246bbdd02fe043d2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a9b703f4e046c3801c1632cd7cff423') in 0.012266 seconds
+  Import took 0.015400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000649 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(9c42aa36611391246bbdd02fe043d2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(9c42aa36611391246bbdd02fe043d2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a9b703f4e046c3801c1632cd7cff423') in 0.001618 seconds
+  Import took 0.004817 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001004 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.868 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 2.062500 ms (FindLiveObjects: 0.213200 ms CreateObjectMapping: 0.072800 ms MarkObjects: 1.678700 ms  DeleteObjects: 0.096800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001036 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 2.402100 ms (FindLiveObjects: 0.219500 ms CreateObjectMapping: 0.096600 ms MarkObjects: 1.970000 ms  DeleteObjects: 0.114500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 307.158512 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(9c42aa36611391246bbdd02fe043d2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(9c42aa36611391246bbdd02fe043d2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5ffff7c670a06ed1a80be774915f62') in 0.004410 seconds
+  Import took 0.008013 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 1.976500 ms (FindLiveObjects: 0.192700 ms CreateObjectMapping: 0.059000 ms MarkObjects: 1.632700 ms  DeleteObjects: 0.091100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001011 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2319.
+Total: 2.012600 ms (FindLiveObjects: 0.267900 ms CreateObjectMapping: 0.123000 ms MarkObjects: 1.530500 ms  DeleteObjects: 0.090200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.802 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 3.903600 ms (FindLiveObjects: 0.443300 ms CreateObjectMapping: 0.205900 ms MarkObjects: 3.112000 ms  DeleteObjects: 0.139900 ms)
+
