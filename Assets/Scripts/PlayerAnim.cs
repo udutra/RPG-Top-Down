@@ -13,6 +13,12 @@ public class PlayerAnim : MonoBehaviour
     }
 
     private void Update() {
+        OnMove();
+        OnRun();
+    }
+
+    #region Movement
+    private void OnMove() {
         if(player.Direction.sqrMagnitude > 0) {
             anim.SetInteger("Transition", 1);
         }
@@ -27,4 +33,11 @@ public class PlayerAnim : MonoBehaviour
             transform.eulerAngles = new Vector2(0, 180);
         }
     }
+
+    private void OnRun() {
+        if(player.IsRunning) {
+            anim.SetInteger("Transition", 2);
+        }
+    }
+    #endregion
 }

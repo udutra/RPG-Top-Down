@@ -6,7 +6,9 @@ public class Player : MonoBehaviour
 {
     private Rigidbody2D rig;
     private Vector2 _direction;
-    public float speed;
+    private float initialSpeed;
+    private bool _isRunning;
+    public float speed, runSpeed;
     
     public Vector2 Direction {
         get {
@@ -17,17 +19,46 @@ public class Player : MonoBehaviour
         }
     }
 
+    public bool IsRunning {
+        get {
+            return _isRunning;
+        }
+        set {
+            _isRunning = value;
+        }
+    }
+
     private void Start() {
         rig = GetComponent<Rigidbody2D>();
+        initialSpeed = speed;
     }
 
     private void Update() {
-        _direction = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        OnInput();
+        OnRun();
     }
 
     private void FixedUpdate() {
-        rig.MovePosition(rig.position + _direction * speed * Time.fixedDeltaTime);
+        OnMove();
     }
 
-    
+    #region Movement
+    private void OnInput() {
+        _direction = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+    }
+
+    private void OnMove() {
+        rig.MovePosition(rig.position + _direction * speed * Time.fixedDeltaTime);
+    }
+    private void OnRun() {
+        if(Input.GetKeyDown(KeyCode.LeftShift)) {
+            speed = runSpeed;
+            _isRunning = true;
+        }
+        if(Input.GetKeyUp(KeyCode.LeftShift)) {
+            speed = initialSpeed;
+            _isRunning = false;
+        }
+    }
+    #endregion
 }
