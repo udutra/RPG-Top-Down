@@ -20,7 +20,12 @@ public class PlayerAnim : MonoBehaviour
     #region Movement
     private void OnMove() {
         if(player.Direction.sqrMagnitude > 0) {
-            anim.SetInteger("Transition", 1);
+            if(player.IsRolling) {
+                anim.SetTrigger("IsRoll");
+            }
+            else {
+                anim.SetInteger("Transition", 1);
+            }
         }
         else {
             anim.SetInteger("Transition", 0);
