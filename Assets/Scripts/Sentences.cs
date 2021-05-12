@@ -4,5 +4,5 @@
 public class Sentences {
     public string actorName;
     public Sprite profile;
-    public Languages sentences;
+    public Languages sentence;
 }

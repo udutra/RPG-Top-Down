@@ -13,6 +13,18 @@ MonoBehaviour:
   m_Name: NPC_1
   m_EditorClassIdentifier: 
   actor: {fileID: 0}
-  apeakerSprite: {fileID: 0}
+  speakerSprite: {fileID: 0}
   sentence: 
-  dialogues: []
+  dialogues:
+  - actorName: NPC
+    profile: {fileID: 0}
+    sentence:
+      portuguese: "Ol\xE1 forasteiro, tudo bem com voc\xEA?"
+      english: Hello
+      spanish: Hola
+  - actorName: NPC
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Tchau
+      english: Goodbye
+      spanish: "Adi\xF3s"
