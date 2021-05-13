@@ -249,7 +249,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 124489133}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 9.01, y: -0.67, z: 0}
+  m_LocalPosition: {x: 5.99, y: -1.64, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1558236152}
@@ -26044,6 +26044,36 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &820308553
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 820308554}
+  m_Layer: 0
+  m_Name: Path (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &820308554
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 820308553}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.01, y: -0.67, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1558236152}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &835678385
 GameObject:
   m_ObjectHideFlags: 0
@@ -26257,10 +26287,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 112777817aa1a7f40b0da49d8f0b8e48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  index: 0
   speed: 2
+  initialSpeed: 0
   paths:
   - {fileID: 1447796418}
   - {fileID: 124489134}
+  - {fileID: 820308554}
 --- !u!1 &1069310375
 GameObject:
   m_ObjectHideFlags: 0
@@ -30314,6 +30347,7 @@ Transform:
   m_Children:
   - {fileID: 1447796418}
   - {fileID: 124489134}
+  - {fileID: 820308554}
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
