@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class NpcDialogue : MonoBehaviour {
-    private List<string> sentences;
+    public List<string> sentences;
     
     public float dialogueRange;
     public LayerMask playerLayer;
@@ -14,12 +14,12 @@ public class NpcDialogue : MonoBehaviour {
         sentences = new List<string>();
     }
     private void Start() {
-        GetNpcInfo();
+        //Editado por mim
+        //GetNpcInfo();
     }
 
     private void Update() {
         if(Input.GetKeyDown(KeyCode.E) && playerHit) {
-            print("Entrou");
             DialogueController.instance.Speech(sentences.ToArray());
         }
     }
@@ -30,6 +30,12 @@ public class NpcDialogue : MonoBehaviour {
 
     private void ShowDialogue() {
         Collider2D hit = Physics2D.OverlapCircle(transform.position, dialogueRange, playerLayer);
+
+        //Criado por mim
+        sentences.Clear();
+        GetNpcInfo();
+
+
         if(hit != null) {
             playerHit = true;
         }
