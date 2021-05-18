@@ -5,15 +5,19 @@ using UnityEngine;
 public class Tree : MonoBehaviour
 {
     [SerializeField] private float treeHealth;
+    [SerializeField] private int totalWood;
     [SerializeField] private Animator anim;
+    [SerializeField] private GameObject WoodPrefab;
 
     public void OnHit() {
         treeHealth--;
         anim.SetTrigger("IsHit");
 
         if(treeHealth <= 0) {
-            //Cria o toco e instancia os drops (madeira)
-            anim.SetTrigger("Cut");
+            for(int i = 0; i < totalWood; i++) {
+                Instantiate(WoodPrefab, transform.position + new Vector3(Random.Range(-0.5f, 0.5f), Random.Range(-0.5f, 0.5f), 0f), transform.rotation);
+                anim.SetTrigger("Cut");
+            }
         }
     }
 
