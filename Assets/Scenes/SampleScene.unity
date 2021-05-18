@@ -468,6 +468,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!198 &385922775 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 385922775, guid: 0b993e5268ae56a4494e12bac9449ed7, type: 3}
+  m_PrefabInstance: {fileID: 7680744084558017890}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &430492865
 GameObject:
   m_ObjectHideFlags: 0
@@ -30850,6 +30855,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 385922775, guid: 0b993e5268ae56a4494e12bac9449ed7, type: 3}
+      propertyPath: playOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 707828723, guid: 0b993e5268ae56a4494e12bac9449ed7, type: 3}
+      propertyPath: leafs
+      value: 
+      objectReference: {fileID: 385922775}
+    - target: {fileID: 707828723, guid: 0b993e5268ae56a4494e12bac9449ed7, type: 3}
+      propertyPath: treeHealth
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 6368170879192538733, guid: 0b993e5268ae56a4494e12bac9449ed7, type: 3}
       propertyPath: m_Name
       value: Tree
