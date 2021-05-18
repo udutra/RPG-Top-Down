@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Tree : MonoBehaviour
 {
+    private bool isCut;
     [SerializeField] private float treeHealth;
     [SerializeField] private int totalWood;
     [SerializeField] private Animator anim;
@@ -16,15 +17,17 @@ public class Tree : MonoBehaviour
         leafs.Play();
 
         if(treeHealth <= 0) {
+            
             for(int i = 0; i < totalWood; i++) {
                 Instantiate(WoodPrefab, transform.position + new Vector3(Random.Range(-0.5f, 0.5f), Random.Range(-0.5f, 0.5f), 0f), transform.rotation);
-                anim.SetTrigger("Cut");
             }
+            anim.SetTrigger("Cut");
+            isCut = true;
         }
     }
 
     private void OnTriggerEnter2D(Collider2D collision) {
-        if(collision.CompareTag("Axe")) {
+        if(collision.CompareTag("Axe") && !isCut) {
             OnHit();
         }
     }

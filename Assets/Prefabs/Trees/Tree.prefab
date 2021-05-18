@@ -48,7 +48,7 @@ ParticleSystem:
   ringBufferLoopRange: {x: 0, y: 1}
   looping: 0
   prewarm: 0
-  playOnAwake: 1
+  playOnAwake: 0
   useUnscaledTime: 0
   autoRandomSeed: 1
   useRigidbodyForVelocity: 1
@@ -5083,7 +5083,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09991b3be2a1fa949b09b8b93f3f3f5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  treeHealth: 2
+  treeHealth: 10
   totalWood: 3
   anim: {fileID: 7809022125595816623}
   WoodPrefab: {fileID: 6122131631803663618, guid: f358f281ad77f8e499cec46a208cdad1, type: 3}
+  leafs: {fileID: 385922775}
