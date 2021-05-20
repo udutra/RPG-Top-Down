@@ -1520,6 +1520,9 @@ TextureImporter:
   - first:
       213: 3881513329090628680
     second: Objects_87
+  - first:
+      213: -7320124526285240742
+    second: Objects_88
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1551,8 +1554,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -3099,7 +3102,7 @@ TextureImporter:
         serializedVersion: 2
         x: 16
         y: 576
-        width: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3480,7 +3483,7 @@ TextureImporter:
         width: 8
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3488,6 +3491,27 @@ TextureImporter:
       bones: []
       spriteID: 84c0463cec7edd530800000000000000
       internalID: 3881513329090628680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objects_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56c42be681b96a90800000000000000
+      internalID: -7320124526285240742
       vertices: []
       indices: 
       edges: []
