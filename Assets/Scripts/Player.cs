@@ -7,7 +7,8 @@ public class Player : MonoBehaviour
     private Rigidbody2D rig;
     private Vector2 _direction;
     private float initialSpeed;
-    private bool _isRunning, _isRolling, _isCutting;
+    [SerializeField] private int handlingObj;
+    [SerializeField] private bool _isRunning, _isRolling, _isCutting, _isDigging;
     public float speed, runSpeed;
     
     public Vector2 Direction {
@@ -46,16 +47,36 @@ public class Player : MonoBehaviour
         }
     }
 
+    public bool IsDigging {
+        get {
+            return _isDigging;
+        }
+        set {
+            _isDigging = value;
+        }
+    }
+
     private void Start() {
         rig = GetComponent<Rigidbody2D>();
         initialSpeed = speed;
+        handlingObj = 1;
     }
 
     private void Update() {
+
+        if(Input.GetKeyDown(KeyCode.Alpha1)) {
+            handlingObj = 1;
+        }
+
+        if(Input.GetKeyDown(KeyCode.Alpha2)) {
+            handlingObj = 2;
+        }
+
         OnInput();
         OnRun();
         OnRooling();
         OnCutting();
+        OnDigging();
     }
 
     private void FixedUpdate() {
@@ -95,14 +116,32 @@ public class Player : MonoBehaviour
     }
     #endregion
 
+    #region Action
     private void OnCutting() {
-        if(Input.GetMouseButtonDown(0)) {
-            speed = 0;
-            IsCutting = true;
-        }
-        if(Input.GetMouseButtonUp(0)) {
-            speed = initialSpeed;
-            IsCutting = false;
+        if(handlingObj == 1) {
+            if(Input.GetMouseButtonDown(0)) {
+                speed = 0;
+                IsCutting = true;
+            }
+            if(Input.GetMouseButtonUp(0)) {
+                speed = initialSpeed;
+                IsCutting = false;
+            }
         }
     }
+
+    private void OnDigging() {
+
+        if(handlingObj == 2) {
+            if(Input.GetMouseButtonDown(0)) {
+                speed = 0;
+                IsDigging = true;
+            }
+            if(Input.GetMouseButtonUp(0)) {
+                speed = initialSpeed;
+                IsDigging = false;
+            }
+        }
+    }
+    #endregion
 }

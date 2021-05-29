@@ -2044,7 +2044,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 2
-      m_TileSpriteIndex: 5
+      m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2054,7 +2054,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 6
-      m_TileSpriteIndex: 6
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2114,7 +2114,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 3
-      m_TileSpriteIndex: 4
+      m_TileSpriteIndex: 6
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2545,12 +2545,12 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: 2916468728049825485, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 6791116220195265118, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 2473653276936051854, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -4024120735716381249, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
   - m_RefCount: 4
@@ -2573,14 +2573,14 @@ Tilemap:
     m_Data: {fileID: -1480478630742382105, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
   - m_RefCount: 3
     m_Data: {fileID: -2935122210580086208, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 2473653276936051854, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
   - m_RefCount: 12
     m_Data: {fileID: 5736574787676787375, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
   - m_RefCount: 14
     m_Data: {fileID: -7291766228770656387, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 6791116220195265118, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 4019511363835105264, guid: 8ff3f5585be98064aa3241c21be4990e, type: 3}
   - m_RefCount: 1
@@ -32900,6 +32900,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c42aa36611391246bbdd02fe043d2a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  handlingObj: 0
+  _isRunning: 0
+  _isRolling: 0
+  _isCutting: 0
+  _isDigging: 0
   speed: 5
   runSpeed: 8
 --- !u!95 &2005110326
