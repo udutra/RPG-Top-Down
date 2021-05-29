@@ -4,13 +4,43 @@ using UnityEngine;
 
 public class SlotFarm : MonoBehaviour
 {
-    [SerializeField] private Sprite hole, carrote;
+    private PlayerItems playerItems;
+
+    [Header("Componentes")]
+    [SerializeField] private Sprite hole;
+    [SerializeField] private Sprite carrot;
     [SerializeField] private SpriteRenderer spriteRender;
+
+    [Header("Settings")]
     [SerializeField] private int digAmount; //Quantidade de "escavação"
-    [SerializeField] private int initialdigAmount;
+    private int initialdigAmount;
+    [SerializeField] private int waterAmount; //total de agua apra nascer uma cenoura
+    private float currentWater;
+    [SerializeField] private bool detecting, dugHole;
+    
 
     private void Start() {
         initialdigAmount = digAmount;
+        playerItems = FindObjectOfType<PlayerItems>();
+    }
+
+    private void Update() {
+        if(dugHole) {
+            if(detecting) {
+                currentWater += 0.01f;
+            }
+
+            //Encheu o total de agua nescessario
+            if(currentWater >= waterAmount) {
+                spriteRender.sprite = carrot;
+
+                if(Input.GetKeyDown(KeyCode.E)) {
+                    spriteRender.sprite = hole;
+                    playerItems.Carrots++;
+                    currentWater = 0f;
+                }
+            }
+        }
     }
 
     public void OnHit() {
@@ -19,17 +49,22 @@ public class SlotFarm : MonoBehaviour
         if(digAmount <= initialdigAmount /2) {
             //aparecer buraco
             spriteRender.sprite = hole;
+            dugHole = true;
         }
-
-        //if(digAmount <= 0) {
-        //    //Plantar cenoura
-        //    spriteRender.sprite = carrote;
-        //}
     }
 
     private void OnTriggerEnter2D(Collider2D collision) {
         if(collision.CompareTag("Dig")) {
             OnHit();
+        }
+        if(collision.CompareTag("Water")) {
+            detecting = true;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision) {
+        if(collision.CompareTag("Water")) {
+            detecting = false;
         }
     }
 }
