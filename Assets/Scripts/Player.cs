@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    private PlayerItems playerItems;
     private Rigidbody2D rig;
     private Vector2 _direction;
     private float initialSpeed;
     [SerializeField] private int handlingObj;
-    [SerializeField] private bool _isRunning, _isRolling, _isCutting, _isDigging;
+    [SerializeField] private bool _isRunning, _isRolling, _isCutting, _isDigging, _isWatering;
     public float speed, runSpeed;
     
     public Vector2 Direction {
@@ -55,9 +56,19 @@ public class Player : MonoBehaviour
             _isDigging = value;
         }
     }
+    
+    public bool IsWatering {
+        get {
+            return _isWatering;
+        }
+        set {
+            _isWatering = value;
+        }
+    }
 
     private void Start() {
         rig = GetComponent<Rigidbody2D>();
+        playerItems = GetComponent<PlayerItems>();
         initialSpeed = speed;
         handlingObj = 1;
     }
@@ -72,11 +83,16 @@ public class Player : MonoBehaviour
             handlingObj = 2;
         }
 
+        if(Input.GetKeyDown(KeyCode.Alpha3)) {
+            handlingObj = 3;
+        }
+
         OnInput();
         OnRun();
         OnRooling();
         OnCutting();
         OnDigging();
+        OnWatering();
     }
 
     private void FixedUpdate() {
@@ -143,5 +159,24 @@ public class Player : MonoBehaviour
             }
         }
     }
+
+    private void OnWatering() {
+
+        if(handlingObj == 3) {
+            if(Input.GetMouseButtonDown(0) && playerItems.CurrentWater > 0) {
+                speed = 0;
+                IsWatering = true;
+            }
+            if(Input.GetMouseButtonUp(0) || playerItems.CurrentWater <= 0) {
+                speed = initialSpeed;
+                IsWatering = false;
+            }
+
+            if(IsWatering) {
+                playerItems.CurrentWater -= 0.01f;
+            }
+        }
+    }
+
     #endregion
 }
