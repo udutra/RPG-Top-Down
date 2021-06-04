@@ -14,7 +14,7 @@ public class Water : MonoBehaviour {
 
     private void Update() {
         if(detectingPlayer && Input.GetKeyDown(KeyCode.E)) {
-            playerItens.WaterLimit(waterValue);
+            playerItens.WatersLimits(waterValue);
         }
     }
 

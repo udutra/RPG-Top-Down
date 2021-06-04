@@ -36,7 +36,7 @@ public class SlotFarm : MonoBehaviour
 
                 if(Input.GetKeyDown(KeyCode.E)) {
                     spriteRender.sprite = hole;
-                    playerItems.Carrots++;
+                    playerItems.CarrotsLimits(1f);
                     currentWater = 0f;
                 }
             }

@@ -173,7 +173,7 @@ public class Player : MonoBehaviour
             }
 
             if(IsWatering) {
-                playerItems.CurrentWater -= 0.01f;
+                playerItems.WatersLimits(-0.01f);
             }
         }
     }
