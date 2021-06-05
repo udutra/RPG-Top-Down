@@ -66,6 +66,11 @@ public class Player : MonoBehaviour
         }
     }
 
+    public int HandlingObj {
+        get => handlingObj;
+        set => handlingObj = value;
+    }
+
     private void Start() {
         rig = GetComponent<Rigidbody2D>();
         playerItems = GetComponent<PlayerItems>();
